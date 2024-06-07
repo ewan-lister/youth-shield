@@ -13,4 +13,4 @@ Arduino_LSM9DS1
 
 ArduinoBLE
 
-After installing these libraries and downloading our provided code, you should be able to run our model.
+After installing these libraries and downloading our provided code, you should be able to run our model. It functions the same as other Arduino exmaples. 
