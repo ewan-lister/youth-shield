@@ -6,8 +6,11 @@ We wrote this code to be integratable with the Arduino Libraries used during the
 They are listed below:
 
 TensorFlow Lite Micro Library for Arduino
+
 Harvard_TinyMLx
+
 Arduino_LSM9DS1
+
 ArduinoBLE
 
 After installing these libraries and downloading our provided code, you should be able to run our model.
